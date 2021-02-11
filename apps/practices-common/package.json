@@ -1,0 +1,14 @@
+{
+  "name": "practices-common",
+  "version": "1.0.0",
+  "private": true,
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3",
+    "tsc-watch": "^4.2.9"
+  }
+}

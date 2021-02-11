@@ -1,0 +1,12 @@
+{
+  "extends": "../../common/config/typescript/tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "out",
+    "noEmit": true,
+    "composite": false,
+    "sourceMap": true,
+    "declaration": false,
+    "declarationMap": false,
+  }
+}
